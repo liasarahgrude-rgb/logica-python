@@ -1,6 +1,6 @@
 # 👩🏽‍💻 Lógica de Programação com Python
 
-Este repositório foi criado para organizar meus estudos e exercícios práticos do módulo de **Introdução à Programação**. Aqui, exploro os fundamentos da lógica utilizando a linguagem Python.
+Este repositório foi criado para organizar meus estudos e exercícios práticos do módulo de **Lógica da programação**. Aqui, exploro os fundamentos da lógica utilizando a linguagem Python.
 
 ### 📗 [Aula 01 - Introdução a Lógica](https://github.com/liasarahgrude-rgb/logica-python/tree/main/aula%2001%20-%20Introdução%20a%20Lógica)
 * Conceitos básicos de algoritmos.
