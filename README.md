@@ -13,6 +13,12 @@ Este repositório foi criado para organizar meus estudos e exercícios práticos
 * Tomada de decisão no código.
 * Uso de estruturas `if`, `elif` e `else`.
 * Operadores lógicos e de comparação.
+ 
+### 📙 [Aula 03 - Laços de Repetição]
+* Estruturas de repetição para automação de tarefas.
+* Uso do laço while para repetições baseadas em condições.
+* Criação de validadores de dados (como sistemas de senha).
+* Controle de fluxo em loops.
 
 ## 🛠️ Tecnologias Utilizadas
 * **Linguagem:** Python 3
